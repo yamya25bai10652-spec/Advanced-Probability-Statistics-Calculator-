@@ -80,9 +80,7 @@ python --version
 
 Step 2: Clone Repository
 
-git clone https://github.com/{your-username}/probability-statistics-calculator.git
-cd probability-statistics-calculator
-
+git clone https://github.com/yamya25bai10652-spec/Tax-Estimator-.git
 If git is not installed, you can download zip file also.
 
 ⸻
