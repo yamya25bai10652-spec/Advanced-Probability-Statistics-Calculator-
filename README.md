@@ -4,7 +4,7 @@ GitHub Repository
 
 https://github.com/yamya25bai10652-spec/Advanced-Probability-Statistics-Calculator-.git
 
-⸻
+
 
 Project Overview
 
@@ -14,7 +14,7 @@ It is design to show understanding of maths concepts and programing logic. The a
 
 I really enjoyed building this project and it was fun learning statistics!
 
-⸻
+
 
 Features
 
@@ -37,7 +37,7 @@ Data Handling
 	•	Manual input
 	•	CSV file input
 
-⸻
+
 
 Technologies Used
 	•	Python 3
@@ -45,23 +45,22 @@ Technologies Used
 	•	statistics module
 	•	csv module
 
-⸻
+
 
 Project Structure
 
 probability-statistics-calculator/
-│
-├── main.py
-├── stats.py
-├── probability.py
-├── distributions.py
-├── data_handler.py
-├── sample_data.csv
-├── requirements.txt
-└── README.md
+
+main.py
+stats.py
+probability.py
+distributions.py
+data_handler.py
+sample_data.csv
+requirements.txt
+README.md
 
 
-⸻
 
 Setup & Execution Guide 
 
@@ -76,14 +75,14 @@ Check installation:
 python --version
 
 
-⸻
+
 
 Step 2: Clone Repository
 
 git clone https://github.com/yamya25bai10652-spec/Tax-Estimator-.git
 If git is not installed, you can download zip file also.
 
-⸻
+
 
 Step 3: Create Virtual Environment
 
@@ -100,14 +99,14 @@ Linux/Mac:
 source venv/bin/activate
 
 
-⸻
+
 
 Step 4: Install Dependancies
 
 pip install -r requirements.txt
 
 
-⸻
+
 
 Step 5: Run Project
 
@@ -115,7 +114,7 @@ python main.py
 
 Now program will start and you can use it 
 
-⸻
+
 
 How to Use
 	1.	Select input method
@@ -125,7 +124,7 @@ How to Use
 
 It is very simple and user friendly 
 
-⸻
+
 
 Example
 
@@ -133,7 +132,7 @@ Enter numbers: 1 2 3 4 5
 Mean: 3
 
 
-⸻
+
 
 Theory (Formulas)
 
@@ -143,7 +142,7 @@ Variance = sum of (x - mean)^2 / n
 
 nCr = n! / (r! (n-r)!)
 
-⸻
+
 
 Algorithm
 	1.	Start
@@ -152,13 +151,13 @@ Algorithm
 	4.	Show result
 	5.	Exit
 
-⸻
+
 
 Advanced Features
 	•	Regression (can be added)
 	•	Graphs using matplotlib
 
-⸻
+
 
 Submission Checklist
 
@@ -166,7 +165,7 @@ Submission Checklist
 ✔ CLI working
 ✔ README present
 
-⸻
+
 
 Author
 Yamya Verma 
